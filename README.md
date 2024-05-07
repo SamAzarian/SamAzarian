@@ -24,3 +24,80 @@
     
  >  Let's connected and collaborating on exciting projects!
  Feel free to reach out for collaboration, contributions, or just a tech chat.
+
+
+ <p align="center">
+      <!-- linkedin -->
+        <a href="" target="_blank">
+          <picture >
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
+              <img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin">
+          </picture>
+        </a>
+      <!-- gmail -->
+        <a href="mailto:" target="_blank">
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
+              <img alt="gmail" src="https://skillicons.dev/icons?i=gmail">
+          </picture>
+        </a>
+      <!-- discord -->
+        <a href="" target="_blank">
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord&theme=light">
+              <img alt="discord" src="https://skillicons.dev/icons?i=discord">
+          </picture>
+        </a>
+  </p>
+</p>
+
+
+<!-- skills -->
+<h2 align="left">
+    <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a> Skills
+</h2>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=js">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=ts">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=nodejs">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=express">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=mongodb">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=mysql">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light">
+        <img alt="redis" src="https://skillicons.dev/icons?i=redis">
+    </picture>
+</p>
+
+<!-- line -->
+<p align="center">
+<img src="./img/line.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
